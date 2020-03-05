@@ -1,2 +1,2 @@
 # datacamp-machine_learning
-All of the notebooks for DataCamps courses on Machine Learning with Python
+All of the notebooks for DataCamp's courses on Machine Learning with Python
